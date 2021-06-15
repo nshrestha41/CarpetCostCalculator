@@ -4,7 +4,7 @@ The Westfield Carpet Company has asked you to write an application that calculat
 price of carpeting for rectangular rooms. To calculate the price, you multiply the area of the
 floor (width times length) by the price per square foot of carpet. For example, the area of
 floor that is 12 feet long and 10 feet wide is 120 square feet. To cover that floor with carpet
-that costs $8 per square foot would cost $960. (12 3 10 3 8 5 960.)
+that costs $8 per square foot would cost $960.
 First, you should create a class named RoomDimension that has two fields: one for the length
 of the room and one for the width. The RoomDimension class should have a method that
 returns the area of the room. (The area of the room is the room’s length multiplied by the
